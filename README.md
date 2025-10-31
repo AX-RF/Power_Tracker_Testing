@@ -2,6 +2,12 @@
 
 An Android application for receiving and displaying energy consumption data from an HC-05 Bluetooth module connected to a robot or IoT device. The app includes optional integration with the Hedera blockchain for data logging.
 
+## Screenshots
+
+| Before Connection | After Connection |
+|-------------------|------------------|
+| ![Before Connection](before.jpg) | ![After Connection](after.jpg) |
+
 ## Features
 
 - **Bluetooth Communication**: Connect to HC-05 Bluetooth modules
@@ -164,7 +170,7 @@ For issues or questions, please check:
 
 ## Authors
 
-HC-05 
+Equipe Robotech 2
 
 ---
 
